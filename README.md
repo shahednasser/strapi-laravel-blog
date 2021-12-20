@@ -1,6 +1,6 @@
 # Strapi + Laravel Tutorial
 
-Code for tutorial for Laravel blog with Strapi v4.
+Code for tutorial for [Laravel blog with Strapi v4](https://blog.shahednasser.com/create-laravel-blog-with-strapi-v4/).
 
 ## Prerequisites
 
